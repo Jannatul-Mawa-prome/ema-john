@@ -1,0 +1,16 @@
+.review-body{
+    padding-bottom: 20px;
+}
+
+p{
+    margin-top: 30px;
+    font-size: 18px;
+    color:rgb(180, 23, 23);
+    font-weight: bold;
+}
+ul li{
+    padding-bottom: 10px;
+    font-size: 18px;
+    color:green;
+    font-weight: bold;
+}

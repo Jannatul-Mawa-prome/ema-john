@@ -1,0 +1,29 @@
+.product-body h5{
+    color: blue;
+    margin-bottom: 30px;
+}
+.product-body h6{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.product-body h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.product-body .icon{
+    font-size: 18px;
+    color:#ffbd00;
+}
+.product-details{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 20px;
+}
+
+.btn{
+    padding:  3px 45px;
+    background-color: #ffbd00;
+    border: 1px solid #a37905;
+    margin-top: 10px;
+}
+
+

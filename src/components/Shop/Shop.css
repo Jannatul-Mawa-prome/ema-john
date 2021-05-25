@@ -1,0 +1,15 @@
+.shop{
+    margin-top: 120px;
+}
+tr td{
+    padding:5px 0px;
+    font-size: 14px;
+}
+.row{
+    margin-left:0;
+    margin-right: 0;
+}
+.product{
+    border-right: 1px solid lightgray;
+}
+
